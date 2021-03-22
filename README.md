@@ -1,5 +1,4 @@
-<img src="https://img.shields.io/badge/2021-F%C3%A1bio%20Marotti-red" />
-<a href="https://github.com/fabiomarotti" alt="GitHub">
+<img src="https://img.shields.io/badge/2021-F%C3%A1bio%20Marotti-red" /><a href="https://github.com/fabiomarotti" alt="GitHub">
   <img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white" />
 </a>
 
