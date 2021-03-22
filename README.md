@@ -1,3 +1,7 @@
+<a href="https://github.com/fabiomarotti" alt="GitHub">
+  <img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white" />
+</a>
+
 - 👋 Hi, I’m @fabiomarotti
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
