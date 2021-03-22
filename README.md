@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/F%C3%A1bio-Marotti-red" />
+
 <a href="https://github.com/fabiomarotti" alt="GitHub">
   <img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white" />
 </a>
