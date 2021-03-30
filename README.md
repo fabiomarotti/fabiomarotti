@@ -16,6 +16,7 @@
 [<img alt="Python"  width="6%" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />](https://www.google.com/search?&q=Python)
 [<img alt="Git"     width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />](https://www.google.com/search?&q=Git)
 [<img alt="MySQL"   width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />](https://www.google.com/search?&q=MySQL)
+[<img alt="React"   width="6%" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />](https://www.google.com/search?&q=React)
 
 <hr>
 
@@ -34,4 +35,6 @@
 # Git  Hub
 <a href="https://github.com/fabiomarotti" alt="GitHub"><img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white" /></a>
 
+# Referências
+https://github.com/devicons
 --->
