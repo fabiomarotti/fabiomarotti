@@ -1,5 +1,7 @@
 
 
+<hr> 
+
 [<img alt="HTML5"       width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />](https://www.google.com/search?&q=html5)
 [<img alt="CSS3"        width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />](https://www.google.com/search?&q=css3)
 [<img alt="JavaScript"  width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://www.google.com/search?&q=Javascript)
@@ -12,16 +14,20 @@
 [<img alt="C++"     width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />](https://www.google.com/search?&q=Cpluplus)
 [<img alt="Csharp"  width="6%" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />](https://www.google.com/search?&q=Csharp)
 [<img alt="Python"  width="6%" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />](https://www.google.com/search?&q=Python)
-[<img alt="R"       width="6%" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />](https://www.google.com/search?&q=R)
 [<img alt="Git"     width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />](https://www.google.com/search?&q=Git)
 [<img alt="MySQL"   width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />](https://www.google.com/search?&q=MySQL)
-[<img alt="MongoDB" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />](https://www.google.com/search?&q=MongoDB)
 
 <hr>
 
 <img src="https://img.shields.io/badge/2021-F%C3%A1bio%20Marotti-red" />
 
 <!---
+# R
+[<img alt="R"       width="6%" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />](https://www.google.com/search?&q=R)
+
+# MongoDB
+[<img alt="MongoDB" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />](https://www.google.com/search?&q=MongoDB)
+
 # Visitas
 ![](https://visitor-badge.glitch.me/badge?page_id=fabiomarotti.fabiomarotti)
 
