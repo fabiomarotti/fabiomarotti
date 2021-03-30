@@ -4,9 +4,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=fabiomarotti.fabiomarotti)
 
 
-[<img alt="C" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />](https://www.google.com/search?&q=html5)
-[<img alt="C" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />](https://www.google.com/search?&q=css3)
-[<img alt="Javascript" width="15%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://www.google.com/search?&q=Javascript)
+[<img alt="C" width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />](https://www.google.com/search?&q=html5)
+[<img alt="C" width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />](https://www.google.com/search?&q=css3)
+[<img alt="Javascript" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://www.google.com/search?&q=Javascript)
 [<img alt="Java" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />](https://www.google.com/search?&q=Java)
 [<img alt="Java" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />](https://www.google.com/search?&q=PHP)
 [<img alt="C" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />](https://www.google.com/search?&q=C)
