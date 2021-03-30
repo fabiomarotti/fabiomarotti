@@ -10,7 +10,7 @@
 [<img alt="Java"    width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />](https://www.google.com/search?&q=Java)
 [<img alt="PHP"     width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />](https://www.google.com/search?&q=PHP)
 [<img alt="C"       width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />](https://www.google.com/search?&q=C)
-[<img alt="C++"     width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />](https://www.google.com/search?&q=C++)
+[<img alt="C++"     width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />](https://www.google.com/search?&q=Cpluplus)
 [<img alt="MySQL"   width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />](https://www.google.com/search?&q=MySQL)
 [<img alt="MongoDB" width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />](https://www.google.com/search?&q=MongoDB)
 [<img alt="Git"  width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />](https://www.google.com/search?&q=Git)
