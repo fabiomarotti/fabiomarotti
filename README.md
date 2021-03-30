@@ -11,7 +11,8 @@
 [<img alt="PHP"     width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />](https://www.google.com/search?&q=PHP)
 [<img alt="C"       width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />](https://www.google.com/search?&q=C)
 [<img alt="C++"     width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />](https://www.google.com/search?&q=Cpluplus)
-[<img alt="C++"     width="8%" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />](https://www.google.com/search?&q=Csharp)
+[<img alt="Csharp"     width="8%" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />](https://www.google.com/search?&q=Csharp)
+[<img alt="Python"     width="8%" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />](https://www.google.com/search?&q=Python)
 
 [<img alt="MySQL"   width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />](https://www.google.com/search?&q=MySQL)
 [<img alt="MongoDB" width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />](https://www.google.com/search?&q=MongoDB)
