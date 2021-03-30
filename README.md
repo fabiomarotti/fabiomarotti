@@ -7,6 +7,9 @@
 [<img alt="HTML5" width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />](https://www.google.com/search?&q=html5)
 [<img alt="CSS3"  width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />](https://www.google.com/search?&q=css3)
 [<img alt="JavaScript" width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://www.google.com/search?&q=Javascript)
+
+[<img alt="Photoshop"    width="8%" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />](https://www.google.com/search?&q=Photoshop)
+[<img alt="Ilustrator"    width="8%" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" />](https://www.google.com/search?&q=Ilustrator)
 [<img alt="Java"    width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />](https://www.google.com/search?&q=Java)
 [<img alt="PHP"     width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />](https://www.google.com/search?&q=PHP)
 [<img alt="C"       width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />](https://www.google.com/search?&q=C)
@@ -18,6 +21,7 @@
 [<img alt="MongoDB" width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />](https://www.google.com/search?&q=MongoDB)
 [<img alt="Git"  width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />](https://www.google.com/search?&q=Git)
 [<img alt="Sass" width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />](https://www.google.com/search?&q=Sass)
+[<img alt="R" width="8%" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />](https://www.google.com/search?&q=R)
 
 
 <!---
