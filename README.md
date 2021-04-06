@@ -5,6 +5,8 @@
 [<img alt="HTML5"       width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />](https://www.google.com/search?&q=html5)
 [<img alt="CSS3"        width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />](https://www.google.com/search?&q=css3)
 [<img alt="JavaScript"  width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://www.google.com/search?&q=Javascript)
+[<img alt="React"   width="6%" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />](https://www.google.com/search?&q=React)
+
 [<img alt="Photoshop"   width="6%" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />](https://www.google.com/search?&q=Photoshop)
 [<img alt="Ilustrator"  width="6%" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" />](https://www.google.com/search?&q=Ilustrator)
 [<img alt="Sass"    width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />](https://www.google.com/search?&q=Sass)
@@ -16,7 +18,7 @@
 [<img alt="Python"  width="6%" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />](https://www.google.com/search?&q=Python)
 [<img alt="Git"     width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />](https://www.google.com/search?&q=Git)
 [<img alt="MySQL"   width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />](https://www.google.com/search?&q=MySQL)
-[<img alt="React"   width="6%" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />](https://www.google.com/search?&q=React)
+
 
 <hr>
 
