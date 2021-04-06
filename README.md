@@ -6,9 +6,6 @@
 [<img alt="CSS3"        width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />](https://www.google.com/search?&q=css3)
 [<img alt="JavaScript"  width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://www.google.com/search?&q=Javascript)
 [<img alt="React"   width="6%" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />](https://www.google.com/search?&q=React)
-
-[<img alt="Photoshop"   width="6%" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />](https://www.google.com/search?&q=Photoshop)
-[<img alt="Ilustrator"  width="6%" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" />](https://www.google.com/search?&q=Ilustrator)
 [<img alt="Sass"    width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />](https://www.google.com/search?&q=Sass)
 [<img alt="Java"    width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />](https://www.google.com/search?&q=Java)
 [<img alt="PHP"     width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />](https://www.google.com/search?&q=PHP)
@@ -28,6 +25,12 @@
   
       
 <!---
+
+
+[<img alt="Photoshop"   width="6%" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />](https://www.google.com/search?&q=Photoshop)
+
+[<img alt="Ilustrator"  width="6%" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" />](https://www.google.com/search?&q=Ilustrator)
+
 # R
 [<img alt="R"       width="6%" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />](https://www.google.com/search?&q=R)
 
