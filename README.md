@@ -11,6 +11,7 @@
 [<img alt="PHP"     width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />](https://www.google.com/search?&q=PHP)
 [<img alt="C"       width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />](https://www.google.com/search?&q=C)
 [<img alt="C++"     width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />](https://www.google.com/search?&q=Cpluplus)
+[<img alt="Delphi"     width="6%" src="https://www.embarcadero.com/images/logos/logo-page/Delphi_FINAL_ICONS_1024.png" />](https://www.embarcadero.com/br/)
 [<img alt="Csharp"  width="6%" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />](https://www.google.com/search?&q=Csharp)
 [<img alt="Python"  width="6%" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />](https://www.google.com/search?&q=Python)
 [<img alt="Git"     width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />](https://www.google.com/search?&q=Git)
