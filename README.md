@@ -17,7 +17,7 @@
 [<img alt="Git"     width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />](https://www.google.com/search?&q=Git)
 [<img alt="MySQL"   width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />](https://www.google.com/search?&q=MySQL)
 [<img alt="SQL Server"  width="6%" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />](https://www.microsoft.com/pt-br/sql-server/sql-server-2019)
-
+[<img alt="SQL Server"  width="6%" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" />](https://github.com/fabiomarotti)
 
 <hr>
 
