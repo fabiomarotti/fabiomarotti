@@ -2,8 +2,7 @@
 
 <hr> 
 
-[<img alt="HTML5"       width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />](https://www.google.com/search?&q=html5)
-[<img alt="CSS3"        width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />](https://www.google.com/search?&q=css3)
+[<img alt="HTML5"       width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />](https://www.google.com/search?&q=html5)[<img alt="CSS3"        width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />](https://www.google.com/search?&q=css3)
 [<img alt="JavaScript"  width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://www.google.com/search?&q=Javascript)
 [<img alt="React"   width="4%" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />](https://www.google.com/search?&q=React)
 [<img alt="Sass"    width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />](https://www.google.com/search?&q=Sass)
