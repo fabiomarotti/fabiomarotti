@@ -29,6 +29,6 @@
 # Git  Hub
 <a href="https://github.com/fabiomarotti" alt="GitHub"><img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white" /></a>
 
-# Referências
+# Icones
 https://github.com/devicons
 --->
