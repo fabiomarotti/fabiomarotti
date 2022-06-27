@@ -31,4 +31,9 @@
 
 # Icones
 https://github.com/devicons
+
+https://github.com/devicons/devicon/tree/master/icons
+
+
+
 --->
